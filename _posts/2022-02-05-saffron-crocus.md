@@ -4,7 +4,7 @@ date: 2026-03-24 13:00:00
 categories: [自然, 植物]
 tags: [植物, 香料]
 image:
-  path: /asset/images/saffron_crocus_feature.jpg
+  path: /assets/images/saffron_crocus_feature.jpg
 ---
 
 * 公元前1600年克里特岛上的[米诺斯文明](https://baike.baidu.com/item/%E7%B1%B3%E8%AF%BA%E6%96%AF%E6%96%87%E6%98%8E/744324)（Minoan）的壁画上就有描绘种植藏红花的场景
