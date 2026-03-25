@@ -1,7 +1,7 @@
 ---
 title:  "藏红花"
 date: 2026-03-24 13:00:00
-categories: [自然, 植物]
+categories: [自然]
 tags: [植物, 香料]
 image:
   path: /assets/img/saffron_crocus_feature.jpg
