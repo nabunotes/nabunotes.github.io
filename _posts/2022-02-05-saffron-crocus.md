@@ -4,7 +4,7 @@ date: 2026-03-24 13:00:00
 categories: [自然]
 tags: [植物, 香料]
 image:
-  path: /assets/img/saffron_crocus_feature.jpg
+  path: /assets/img/posts/2022-02-05-saffron-crocus/saffron_crocus_feature.jpg
 ---
 
 * 公元前1600年克里特岛上的[米诺斯文明](https://baike.baidu.com/item/%E7%B1%B3%E8%AF%BA%E6%96%AF%E6%96%87%E6%98%8E/744324)（Minoan）的壁画上就有描绘种植藏红花的场景
@@ -16,5 +16,4 @@ image:
 * 藏红花在古代被认为有药用效果，埃及艳后克利奥帕特拉曾用它泡水洗澡。
 
 
-| ![](/assets/img/saffron_crocus.jpg) | ![](/assets/img/saffron_crocus_drawing.jpg) |
-
+![](/assets/img/posts/2022-02-05-saffron-crocus/saffron_crocus_drawing.jpg) 
