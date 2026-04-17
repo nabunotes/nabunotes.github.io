@@ -2,8 +2,8 @@
 layout: post
 title: "解构米兰大教堂：六百年大理石史诗背后的结构博弈"
 date: 2026-04-16 00:00:00 -0800
-categories: [jianzhu]
-tags: [米兰，教堂，哥特式]
+categories: [建筑]
+tags: [意大利, 米兰, 教堂, 哥特式]
 image:
   path: /assets/img/posts/2026-04-16-duomo-di-milano/cover.jpg
   alt: "解构米兰大教堂：六百年大理石史诗背后的结构博弈"
