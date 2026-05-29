@@ -3,7 +3,7 @@ layout: post
 title: "「恶的难题」：神正论两千年"
 date: 2026-05-23 10:00:00 +0800
 categories: [哲学]
-tags: [神正论, 哲学史, 恶的难题, 宗教哲学]
+tags: [神正论, 哲学史, 宗教哲学]
 image:
   path: /assets/img/posts/2026-05-23-theodicy-history/cover.png
   alt: "神正论：恶的难题"
