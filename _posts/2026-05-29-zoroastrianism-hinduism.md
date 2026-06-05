@@ -2,7 +2,7 @@
 layout: post
 title: "拜火教与印度教：同根异枝"
 date: 2026-05-29 10:00:00 +0800
-categories: [历史]
+categories: [宗教]
 tags: [琐罗亚斯德教, 印度教, 宗教史, 印欧语系, 一神教, 种姓制度]
 image:
   path: /assets/img/posts/2026-05-29-zoroastrianism-hinduism/cover.jpg
